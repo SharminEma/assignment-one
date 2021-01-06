@@ -1,0 +1,87 @@
+.name-highlight{
+    color:coral;
+}
+body{
+    font-family: 'EB Garamond', serif;
+    padding: 40px;
+    margin: 2px;
+
+}
+h1{
+    font-size: 30px;
+}
+.section{
+    height:500px;
+    padding-bottom: 200px;
+}
+.link-button{
+
+    background-image:linear-gradient(90deg,rgb(255, 71, 141),rgb(58, 183, 233));
+    text-decoration:none;
+    color:white;
+    font-weight: 800;
+    padding: 4px 20px;
+    border-style: solid;
+    border-radius: 5px;
+    margin-left: 75px;
+
+}
+.last-link-button{
+
+    background-image:linear-gradient(90deg,rgb(255, 71, 141),rgb(58, 183, 233));
+    text-decoration:none;
+    color:white;
+    font-weight: 800;
+    padding: 1px 20px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-left: 375px;
+    text-align: right;
+    
+  
+}
+
+.half-width{
+    width:40%;
+    float:left;
+    margin-left:2%;
+    padding-left:2%;
+}
+.half-width img{
+    width: 100%;
+    float: left;
+   
+}
+
+.heading{
+    width:fit-content;
+    text-align: center;
+}
+.column img{
+   
+   float: left;
+    width:30%;
+    display: table;
+}
+.style{
+    float:left;
+    width:700px;
+    padding-left:5%;
+    background-image: url("IMAGE/BACKGROUND.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 10vh;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+h5,h3{
+    
+    text-align: justify;
+}
+.highlight{
+    color: coral;
+}
+.picture img{
+    height:30px;
+    widows:30px; ;
+}
